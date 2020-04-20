@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.topics {
+	width: 960px;
+	margin: 50px auto;
+}
+
+.topic img {
+	width: 280px;
+}
+
+.topic {
+	width: 300px;
+	border: 1px solid gray;
+	padding: 10px;
+	float: left;
+	position: relative;
+}
+
+.step {
+	color: #fff;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: orange;
+}
+
+.t-two {
+	margin: 0 30px;
+}
